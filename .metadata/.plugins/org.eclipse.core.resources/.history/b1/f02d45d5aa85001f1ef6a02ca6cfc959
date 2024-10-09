@@ -1,0 +1,8 @@
+spring.datasource.url=postgresql://localhost:5432/jobservice
+spring.datasource.username=postgres
+spring.datasource.password=subbu25022004
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.properties.hibernet.dialect=org.hibernate.dialect.PostgreSQLDialect
+server.port=8080
+spring.jpa.hibernate.ddl-auto=update
+
